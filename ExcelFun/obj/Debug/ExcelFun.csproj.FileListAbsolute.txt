@@ -1,0 +1,13 @@
+D:\Coding\workspace\ExcelFun\ExcelFun\bin\Debug\ExcelFun.dll
+D:\Coding\workspace\ExcelFun\ExcelFun\bin\Debug\ExcelFun.pdb
+D:\Coding\workspace\ExcelFun\ExcelFun\bin\Debug\ExcelFun.dll.manifest
+D:\Coding\workspace\ExcelFun\ExcelFun\bin\Debug\ExcelFun.vsto
+D:\Coding\workspace\ExcelFun\ExcelFun\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Coding\workspace\ExcelFun\ExcelFun\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Coding\workspace\ExcelFun\ExcelFun\obj\Debug\ResolveAssemblyReference.cache
+D:\Coding\workspace\ExcelFun\ExcelFun\obj\Debug\ExcelFun.Properties.Resources.resources
+D:\Coding\workspace\ExcelFun\ExcelFun\obj\Debug\GenerateResource.read.1.tlog
+D:\Coding\workspace\ExcelFun\ExcelFun\obj\Debug\GenerateResource.write.1.tlog
+D:\Coding\workspace\ExcelFun\ExcelFun\obj\Debug\ExcelFun.dll
+D:\Coding\workspace\ExcelFun\ExcelFun\obj\Debug\ExcelFun.pdb
+D:\Coding\workspace\ExcelFun\ExcelFun\obj\Debug\ExcelFun.Ribbon.resources
